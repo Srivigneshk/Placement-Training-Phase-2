@@ -16,4 +16,4 @@ public class program1 {
         student st = new student();
         
     }
-}
+}   

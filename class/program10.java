@@ -12,6 +12,6 @@ public class program10 {
     public static void main(String[] args) {
         division d = new division();
         d.divide(10, 2); 
-        d.divide(10, 0);
+        d.divide(10, 0);    
     }
 }

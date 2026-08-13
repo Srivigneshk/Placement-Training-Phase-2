@@ -31,7 +31,7 @@ public class program3 {
         }
 
     }
-    public static void main(String[] args){
+    void main(String[] args){
         Scanner sc = new Scanner(System.in);
         String name = sc.nextLine();
         Management m = new Management();
